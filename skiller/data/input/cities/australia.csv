@@ -1,0 +1,16 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Sydney,Sydney,-33.92,151.1852,Australia,AU,AUS,New South Wales,admin,4630000.0,1036074917
+Melbourne,Melbourne,-37.82,144.975,Australia,AU,AUS,Victoria,admin,4170000.0,1036533631
+Brisbane,Brisbane,-27.455,153.0351,Australia,AU,AUS,Queensland,admin,1860000.0,1036192929
+Perth,Perth,-31.955,115.84,Australia,AU,AUS,Western Australia,admin,1532000.0,1036178956
+Adelaide,Adelaide,-34.935,138.6,Australia,AU,AUS,South Australia,admin,1145000.0,1036538171
+Newcastle,Newcastle,-32.8453,151.815,Australia,AU,AUS,New South Wales,,1134616.0,1036468001
+Canberra,Canberra,-35.283,149.129,Australia,AU,AUS,Australian Capital Territory,primary,327700.0,1036142029
+Gold Coast,Gold Coast,-28.0815,153.4482,Australia,AU,AUS,Queensland,,527660.0,1036153217
+Cranbourne,Cranbourne,-38.0996,145.2834,Australia,AU,AUS,Victoria,,460491.0,1036639986
+Wollongong,Wollongong,-34.4154,150.89,Australia,AU,AUS,New South Wales,,260914.0,1036502269
+Geelong,Geelong,-38.1675,144.3956,Australia,AU,AUS,Victoria,,160991.0,1036870987
+Cairns,Cairns,-16.8878,145.7633,Australia,AU,AUS,Queensland,,154225.0,1036016939
+Townsville,Townsville,-19.25,146.77,Australia,AU,AUS,Queensland,,138954.0,1036500020
+Albury,Albury,-36.06,146.92,Australia,AU,AUS,New South Wales,,104258.0,1036076542
+Darwin,Darwin,-12.4254,130.85,Australia,AU,AUS,Northern Territory,admin,93080.0,1036497565

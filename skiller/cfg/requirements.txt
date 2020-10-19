@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+selenium
+Scrapy
+requests
+requests-oauthlib
+schedule
+scrapy-rotating-proxies

@@ -1,0 +1,88 @@
+SNo,Name(s),Council,Core County,Other Counties,2011 Tot, % change Tot,Tot area,Tot dens,2011 Mun, % change Mun,Mun area,Mun dens,2009 elect,2011 Sub
+1,Dublin, City,Dublin,"Dublin (Dún Laoghaire–Rathdown, Fingal, South Dublin)","11,10,627",6.2,318,"3,493","5,27,612",4.2,116.58,"4,526","3,47,312","5,83,015"
+2,Cork, City,Cork,,"1,98,582",4.3,494,402,"1,19,230",?0.2,38.59,"3,090","82,896","79,352"
+3,Limerick, City,Limerick,Clare,"91,454",0.8,57,"1,604","57,106",8.7,28.38,"2,012","40,358","34,348"
+4,Galway, City,Galway,,"76,778",5.6,53,"1,449","75,529",4.3,50,"1,511","46,164","1,249"
+5,Waterford, City,Waterford,Kilkenny,"51,519",4.7,44,"1,171","46,732",2.2,38.35,"1,219","26,598","4,787"
+6,Drogheda, Borough,Louth,Meath,"38,578",9.9,15,"2,572","30,393",4.9,12.76,"2,382","23,091","8,185"
+7,Kilkenny, Borough,Kilkenny,,"24,423",10.1,27,905,"8,711",0.6,3.74,"2,329","14,324","15,712"
+8,Wexford, Borough,Wexford,,"20,072",10.5,38,528,"19,913",124.9,18.63,"1,069","15,752",159
+9,Sligo, Borough,Sligo,,"19,452",0.3,31,627,"17,568",?1.8,12.84,"1,368","13,941","1,884"
+10,Clonmel, Borough,Tipperary,Waterford,"17,908",5.3,17,"1,053","15,793",2,11.36,"1,390","10,763","2,115"
+11,Dundalk, Urban District,Louth,,"37,816",7.8,110,344,"31,149",7.3,25.19,"1,237","21,958","6,667"
+12,Bray, Urban District,Wicklow,Dublin (Dún Laoghaire–Rathdown),"31,872",?0.1,9,"3,541","26,852",?0.7,7.49,"3,585","19,255","5,020"
+13,Navan (An Uaimh), Urban District,Meath,,"28,559",14.9,45,635,"28,158",659,20.04,"1,405","17,541",401
+14,Ennis, Urban District,Clare,,"25,360",4.6,45,564,"20,180",0.2,14.6,"1,382","14,182","5,180"
+15,Tralee, Urban District,Kerry,,"23,693",4.2,32,740,"20,814",2.6,12.09,"1,722","16,391","2,879"
+16,Carlow, Urban District,Carlow,Laois,"23,030",11.1,13,"1,772","13,698",0.6,6.45,"2,124","11,835","9,332"
+17,Naas, Urban District,Kildare,,"20,713",3.3,18,"1,151","20,713",3.3,18.24,"1,136","13,434",—
+18,Athlone, Urban District,Westmeath,Roscommon,"20,153",14.9,17,"1,185","15,558",8.4,10.92,"1,425","12,637","4,595"
+19,Letterkenny, Urban District,Donegal,,"19,588",11.4,48,408,"15,387",2.2,19.03,809,"10,905","4,201"
+20,Tullamore, Urban District,Offaly,,"14,361",11.1,21,684,"11,346",4.1,7.84,"1,447","8,573","3,015"
+21,Killarney, Urban District,Kerry,,"14,219",?2.6,38,374,"12,740",?5.6,13.44,948,"8,064","1,479"
+22,Arklow, Urban District,Wicklow,,"13,009",10.6,14,929,"12,770",9,6.44,"1,983","7,831",239
+23,Cobh, Urban District,Cork,,"12,347",9.2,9,"1,372","6,500",?0.6,2.38,"2,731","8,087","5,847"
+24,Castlebar, Urban District,Mayo,,"12,318",3.6,27,456,"10,826",1.6,11.5,941,"8,115","1,492"
+25,Midleton, Urban District,Cork,,"12,001",19.4,12,"1,000","3,733",?5.1,1.55,"2,408","7,102","8,268"
+26,Mallow, Urban District,Cork,,"11,605",13.3,17,683,"8,578",9.1,6.49,"1,322","7,965","3,027"
+27,Ballina, Urban District,Mayo,,"11,086",6.5,30,370,"10,361",3,13.69,757,"7,569",725
+28,Enniscorthy, Urban District,Wexford,,"10,838",13.6,18,602,"2,842",?12.3,1.16,"2,450","5,806","7,996"
+29,Wicklow, Urban District,Wicklow,,"10,356",2.8,10,"1,036","6,761",?2.4,3.08,"2,195","6,069","3,595"
+30,Cavan, Urban District,Cavan,,"10,205",29.5,18,567,"3,649",?7.2,2.01,"1,815","4,406","6,556"
+31,Athy, Urban District,Kildare,,"9,926",20.8,25,397,"9,587",20.7,10.29,932,"6,263",339
+32,Longford, Urban District,Longford,,"9,601",8.7,22,436,"8,002",5,8.93,896,"6,100","1,599"
+33,Dungarvan, Urban District,Waterford,,"9,427",12.7,17,555,"7,991",2.3,6.21,"1,287","6,210","1,436"
+34,Nenagh, Urban District,Tipperary,,"8,439",8.9,18,469,"8,023",8.2,8.46,948,"5,388",416
+35,Trim, Urban District,Meath,,"8,268",20.3,9,919,"1,441",4.8,0.67,"2,151","4,271","6,827"
+36,New Ross, Urban District,Wexford,Kilkenny,"8,151",5.7,5,"1,630","4,533",?3.1,1.87,"2,424","5,533","3,618"
+37,Thurles, Urban District,Tipperary,,"7,933",3.3,13,610,"6,929",1.4,5.15,"1,345","5,877","1,004"
+38,Youghal, Urban District,Cork,,"7,794",14.9,11,709,"6,990",9.3,4.87,"1,435","5,683",804
+39,Monaghan, Urban District,Monaghan,,"7,452",11.1,13,573,"6,637",6.7,5.51,"1,205","5,474",815
+40,Buncrana, Urban District,Donegal,,"6,839",15.7,17,402,"3,452",1.2,4.67,739,"4,766","3,387"
+41,Ballinasloe, Urban District,Galway,Roscommon,"6,659",5.6,18,370,"6,449",6.6,16.74,385,"5,092",210
+42,Fermoy, Urban District,Cork,,"6,489",10.5,8,811,"2,223",?2.3,1.25,"1,778","5,000","4,266"
+43,Westport, Urban District,Mayo,,"6,063",10.7,20,303,"5,543",7.4,8.14,681,"3,731",520
+44,Carrick-on-Suir, Urban District,Tipperary,Waterford,"5,931",0.4,9,659,"5,886",0.5,9,654,"3,500",45
+45,Kells (Ceannanus Mór), Urban District,Meath,,"5,888",12.2,6,981,"2,208",?2.2,1.18,"1,871","3,769","3,680"
+46,Birr, Urban District,Offaly,Tipperary,"5,822",14.6,19,306,"4,428",8.2,6.35,697,"3,295","1,394"
+47,Tipperary, Urban District,Tipperary,,"5,310",4.8,11,483,"4,322",?2.1,3.36,"1,286","3,798",988
+48,Carrickmacross, Urban District,Monaghan,,"4,925",12.3,10,493,"1,978",0.3,1.42,"1,393","4,302","2,947"
+49,Kinsale, Urban District,Cork,,"4,893",19.4,7,699,"2,198",?4.4,1.11,"1,980","3,099","2,695"
+50,Listowel, Urban District,Kerry,,"4,832",11.4,17,284,"4,205",7.8,6.36,661,"3,841",627
+51,Clonakilty, Urban District,Cork,,"4,721",13.6,10,472,"4,000",6.8,4.45,899,"3,634",721
+52,Cashel, Urban District,Tipperary,,"4,051",38,5,810,"2,275",?5.7,1.35,"1,685","2,929","1,776"
+53,Macroom, Urban District,Cork,,"3,879",9.2,22,176,"3,738",9.7,10.67,350,"2,937",141
+54,Castleblayney (Castleblaney), Urban District,Monaghan,,"3,634",16.3,7,519,"1,752",?3.8,1.2,"1,460","3,118","1,882"
+55,Kilrush, Urban District,Clare,,"2,695",0,11,245,"2,539",?4.4,5.35,475,"2,137",156
+56,Skibbereen, Urban District,Cork,,"2,670",14.2,9,297,"2,568",9.8,4.07,631,"1,947",102
+57,Bundoran, Urban District,Donegal,,"2,140",9,10,214,"1,781",4.4,3.93,453,"1,529",359
+58,Templemore, Urban District,Tipperary,,"2,071",?13.1,10,207,"1,941",?13.9,4.35,446,"1,766",130
+59,Clones, Urban District,Monaghan,,"1,761",?0.3,5,352,"1,491",?1.7,1.83,815,"1,601",270
+60,Newbridge (Droichead Nua), Town Commissioners,Kildare,,"21,561",16.4,16,"1,348","17,127",0.5,2.8,"6,117","13,604","4,434"
+61,Port Laoise (Portlaoise), Town Commissioners,Laois,,"20,145",37.9,19,"1,060","3,639",10.9,2.05,"1,775","8,409","16,506"
+62,Mullingar, Town Commissioners,Westmeath,,"20,103",9.2,23,874,"9,414",5.3,5.58,"1,687","9,791","10,689"
+63,Balbriggan, Town Commissioners,Dublin (Fingal),,"19,960",28.3,13,"1,535","19,932",196.1,6.52,"3,061","10,500",28
+64,Greystones, Town Commissioners,Wicklow,,"17,468",19.9,30,582,"10,173",0.6,3.8,"2,677","9,966","7,295"
+65,Leixlip, Town Commissioners,Kildare,,"15,452",5.3,7,"2,207","15,452",5.3,11.3,"1,367","12,724",—
+66,Tramore, Town Commissioners,Waterford,,"10,328",7.2,14,738,"9,722",5.8,16.61,585,"7,712",606
+67,Shannon, Town Commissioners,Clare,,"9,673",4.9,9,"1,075","9,673",14.1,31.2,310,"7,113",—
+68,Gorey, Town Commissioners,Wexford,,"9,114",26.7,9,"1,013","3,463",?0.5,1.71,"2,025","4,379","5,651"
+69,Tuam, Town Commissioners,Galway,,"8,242",19.7,13,634,"3,348",11.7,2.36,"1,419","5,863","4,894"
+70,Edenderry, Town Commissioners,Offaly,,"6,977",18.5,17,410,"6,490",15.5,7.93,818,"4,306",487
+71,Bandon, Town Commissioners,Cork,,"6,640",14.1,10,664,"1,917",11.4,0.84,"2,282","3,886","4,723"
+72,Passage West, Town Commissioners,Cork,,"5,790",11.3,10,579,"5,122",6.3,4.03,"1,271","4,315",668
+73,Loughrea, Town Commissioners,Galway,,"5,062",11.7,4,"1,266","5,062",11.7,4.25,"1,191","3,914",—
+74,Ardee, Town Commissioners,Louth,,"4,927",5,14,352,"4,554",5.9,4.75,959,"3,197",373
+75,Mountmellick, Town Commissioners,Laois,,"4,735",16.4,8,592,"2,998",4.4,2.27,"1,321","3,095","1,737"
+76,Bantry, Town Commissioners,Cork,,"3,348",1.2,10,335,"3,348",1.2,10,335,"2,645",—
+77,"Muine Bheag (Muinebeag, Bagenalstown)", Town Commissioners,Carlow,,"2,950",7.9,7,421,"2,775",9.6,2.88,964,"2,193",175
+78,Boyle, Town Commissioners,Roscommon,,"2,588",2.6,11,235,"1,459",?8.8,2.98,490,"2,500","1,129"
+79,Ballyshannon, Town Commissioners,Donegal,,"2,503",?6.8,10,250,"1,855",?7.4,3.43,541,"2,324",648
+80,Cootehill, Town Commissioners,Cavan,,"2,123",12.2,6,354,"1,592",28.1,1.82,875,"1,795",531
+81,Ballybay, Town Commissioners,Monaghan,,"1,461",20,—,—,298,?25.7,0.25,"1,192","1,218","1,163"
+82,Belturbet, Town Commissioners,Cavan,,"1,407",?0.3,—,—,"1,378",?1.2,4.38,315,"1,296",29
+83,Lismore, Town Commissioners,Waterford,,"1,369",10.4,—,—,732,?7.3,0.57,"1,284","1,138",637
+84,Kilkee, Town Commissioners,Clare,,"1,139",?14,—,—,"1,037",?21.7,5.25,198,"1,063",102
+85,Granard, Town Commissioners,Longford,,"1,021",9.4,—,—,"1,021",9.4,8.12,126,911,—
+,,,,,,,,,,,,,,
+"For more information, kindly visit :  www.downloadexcelfiles.com ",,,,,,,,,,,,,,

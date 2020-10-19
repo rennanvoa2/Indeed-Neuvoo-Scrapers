@@ -1,0 +1,38 @@
+
+Problem: object of type 'NoneType' has no len()
+
+Problem: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+
+Problem: 'results'
+
+Problem: object of type 'NoneType' has no len()
+
+Problem: Expecting value: line 1 column 1 (char 0)
+
+Problem: Expecting value: line 1 column 1 (char 0)
+
+Problem: Expecting value: line 1 column 1 (char 0)
+
+Problem: Expecting value: line 1 column 1 (char 0)
+
+Problem: Expecting value: line 1 column 1 (char 0)
+
+Problem: object of type 'NoneType' has no len()
+
+Problem: 'results'
+
+Problem: 'results'
+
+Problem: list index out of range
+
+Problem: 'dates'
+
+Problem: 'dates'
+
+Problem: 'dates'
+
+Problem: 'dates'
+
+Problem: 'dates'
+
+Problem: list index out of range
